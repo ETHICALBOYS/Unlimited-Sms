@@ -53,7 +53,7 @@ pkg install git wget python -y
 ```
 Clone the repository
 ```bash
-git clone https://github.com/samay825/Sms-Bomb
+https://github.com/ETHICALBOYS/Unlimited-Sms.git
 ```
 Go to the Sms-Bomb directory
 ```bash
