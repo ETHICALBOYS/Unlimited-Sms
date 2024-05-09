@@ -53,11 +53,11 @@ pkg install git wget python -y
 ```
 Clone the repository
 ```bash
-https://github.com/ETHICALBOYS/Unlimited-Sms.git
+git clone https://github.com/ETHICALBOYS/Unlimited-Sms.git
 ```
 Go to the Sms-Bomb directory
 ```bash
-cd Sms-Bomb
+cd Unlimited-Sms
 ```
 Now Install the Requirements 
 ```bash
